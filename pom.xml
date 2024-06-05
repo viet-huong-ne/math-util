@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.pinky</groupId>
     <artifactId>math-util</artifactId>
-    <version>6.9</version>
+    <version>77.9</version>
     <packaging>jar</packaging>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
