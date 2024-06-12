@@ -16,7 +16,7 @@ public class Main {
     //this method is written directly in server to simulate
     //the work of another team meber, he uploads code before me
     public static void sayHiFromLocal() {
-        
+        System.out.println("");
     }
 
     public static void main(String[] args) {
