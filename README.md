@@ -1,7 +1,7 @@
 [![Math Utility Project (CI included)](https://github.com/viet-huong-ne/math-util/actions/workflows/maven.yml/badge.svg)](https://github.com/viet-huong-ne/math-util/actions/workflows/maven.yml)
 # Welcome to Math Utility Repository
 
-## You will find in thí repo the following stuff
+## You will find in this repo the following stuff
 
 * A Java Project (using Maven) to demonstrate a Math library as in JDK
 * A Unit Test test script using JUnit Test framework and TDD, DDT technique
