@@ -89,4 +89,10 @@ public class MathUtilityTest {
 
         assertEquals(120, MathUtility.getFactorial(5));
     }
+     @Test
+    public void testFactorialGivenWrongThrowException(){
+        //ngoại lệ
+        //MathUtiliyV1.getFactorial(-1);
+        assertThrows(IllegalArgumentException.class, () -> {MathUtility.getFactorial(-1);});
+    }
 }

@@ -12,7 +12,10 @@ import javax.swing.JOptionPane;
  * @author Admin
  */
 public class Main {
-
+    //this method is written in local
+    public static void sayHiFromLocal(){
+    
+    }
     public static void main(String[] args) {
         //CÁCH KIỂM THỬ 2 - GIỐNG CÁCH 1
         //Test case #1: check if 0! returns 1
