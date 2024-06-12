@@ -1,3 +1,4 @@
+[![Math Utility Project (CI included)](https://github.com/viet-huong-ne/math-util/actions/workflows/maven.yml/badge.svg)](https://github.com/viet-huong-ne/math-util/actions/workflows/maven.yml)
 # Welcome to Math Utility Repository
 
 ## You will find in thí repo the following stuff
